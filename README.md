@@ -6,7 +6,7 @@
  Chosing a square for placing X or O is done by presing one 
  of the buttons on the numerical keyboard:
 
-   7  |  8  |  9 
+   7  |  8  |  9
   --- + --- + ---
    4  |  5  |  6
   --- + --- + ---
